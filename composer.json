@@ -1,15 +1,11 @@
 {
-  "name": "solis/highway",
+  "name": "conectra/highway",
   "description": "HighWay is simple route engine structured by schemas",
-  "license": [
-    "GPL-3.0+",
-    "LGPL-3.0+"
-  ],
+  "license": "MIT",
   "authors": [
     {
       "name": "Rafael Becker",
-      "email": "rafael@beecker.com.br",
-      "role": "Developer"
+      "email": "rafael@beecker.com.br"
     }
   ],
   "autoload": {
