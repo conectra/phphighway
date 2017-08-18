@@ -149,6 +149,7 @@ class SchemaRequest
                     $arguments = $arguments['queryParams'];
                     break;
                 case 'POST':
+                case 'PATCH':
                     $arguments = $arguments['parsedBody'];
                     break;
             }
